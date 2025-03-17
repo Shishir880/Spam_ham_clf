@@ -16,8 +16,8 @@ Make sure you have Python installed. Then, clone this repository and install dep
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/spam-detector.git
-cd spam-detector
+git clone https://github.com/your-username/spam-detector.git](https://github.com/Shishir880/Spam_ham_clf.git
+cd Spam_ham_clf
 
 # Create virtual environment (optional but recommended)
 python -m venv venv
